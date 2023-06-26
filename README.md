@@ -4,6 +4,6 @@ Introducing Personal Archive, a powerful Chrome extension designed to make savin
 
 ### This is how it looks like when you open
 ![landing page](images/readmeImage1.PNG)
-### A closer look of chrome this chrome extension
+### A closer look of this chrome extension
 ![closer look](images/readmeImage2.PNG)
 
